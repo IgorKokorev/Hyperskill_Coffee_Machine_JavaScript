@@ -1,0 +1,16 @@
+type: remote_edu
+custom_name: "Buy, fill, take!"
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+    -   name: tests.py
+        visible: false
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17039#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+    message: <html>Correct solution</html>
+    time: "Sun, 11 Aug 2024 11:41:07 UTC"
+record: 4

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+    -   text: mra
+    -   text: arm
+    -   text: ar
+    -   text: har
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17756#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: What is the price of this?
+files:
+    -   name: main.js
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/46689#comment
+status: Solved
+record: -1
